@@ -1,0 +1,84 @@
+.c1
+{
+background-color: green;
+height: 40px;
+}
+.c2
+{
+position: sticky;
+background-color: black;
+height: 560px;
+width: 100%;
+top: 0px;
+left: 0px;
+opacity: .3;
+
+}
+.c3
+{
+background-color: blueviolet;
+height: 100px;
+}
+.prof
+{
+width: 30%;
+height: 30%;
+}
+.menu
+{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    float: right;
+    font-size: 40px;
+    width: 35%;
+    position: fixed;
+}
+.col-white
+{
+    color: white;
+}
+.c4
+{
+    background-color: aquamarine;
+}
+#center
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    align-items: center;
+}
+.login-btn:hover
+    {
+        background-color: white;
+        font-size: 22px;
+    }
+    table{
+        width: 100%;
+        
+        line-height: 19.5px; 
+    }
+    table td{
+        vertical-align: baseline;
+    }
+    .left{
+        font-family: Arial;
+        font-size: 40px;
+        text-align: left;
+    
+    }
+    .right{
+        font-size: 20px;
+        text-align: right;
+    }
+    .blue-font
+    {
+        color: rgb(43, 43, 201);
+    }
+    .small-font
+    {
+        font-size: 50px;
+    }
+
+
